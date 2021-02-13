@@ -1,0 +1,72 @@
+[10-Nov-2020 10:30:32 UTC] PHP Parse error:  syntax error, unexpected '" and"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/n0bqddx75lju/public_html/demo/application/update.php on line 49
+[10-Nov-2020 10:30:43 UTC] PHP Parse error:  syntax error, unexpected '" and"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/n0bqddx75lju/public_html/demo/application/update.php on line 49
+[10-Nov-2020 10:31:22 UTC] PHP Parse error:  syntax error, unexpected '" and"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/n0bqddx75lju/public_html/demo/application/update.php on line 49
+[10-Nov-2020 10:33:12 UTC] PHP Notice:  Undefined index: id in /home/n0bqddx75lju/public_html/demo/application/update.php on line 28
+[10-Nov-2020 10:33:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/n0bqddx75lju/public_html/demo/application/update.php on line 31
+[10-Nov-2020 10:33:12 UTC] PHP Notice:  Undefined index: id in /home/n0bqddx75lju/public_html/demo/application/update.php on line 38
+[10-Nov-2020 10:34:26 UTC] PHP Notice:  Undefined index: id in /home/n0bqddx75lju/public_html/demo/application/update.php on line 28
+[10-Nov-2020 10:34:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/n0bqddx75lju/public_html/demo/application/update.php on line 31
+[10-Nov-2020 10:36:18 UTC] PHP Notice:  Undefined index: id in /home/n0bqddx75lju/public_html/demo/application/update.php on line 28
+[10-Nov-2020 10:36:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/n0bqddx75lju/public_html/demo/application/update.php on line 31
+[11-Nov-2020 10:57:32 UTC] PHP Notice:  Undefined index: user in /home/n0bqddx75lju/public_html/demo/application/signup.php on line 76
+[11-Nov-2020 10:57:32 UTC] PHP Notice:  Undefined index: mob in /home/n0bqddx75lju/public_html/demo/application/signup.php on line 78
+[11-Nov-2020 11:17:14 UTC] PHP Notice:  Undefined index: user in /home/n0bqddx75lju/public_html/demo/application/signup.php on line 76
+[11-Nov-2020 11:17:14 UTC] PHP Notice:  Undefined index: mob in /home/n0bqddx75lju/public_html/demo/application/signup.php on line 78
+[11-Nov-2020 16:03:15 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 12
+[11-Nov-2020 16:03:31 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 12
+[11-Nov-2020 16:04:51 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 12
+[12-Nov-2020 14:49:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:49:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:49:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:53:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:53:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:56:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 14:57:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n0bqddx75lju/public_html/demo/application/login.php on line 3
+[12-Nov-2020 15:19:22 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 12
+[12-Nov-2020 15:19:50 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 12
+[12-Nov-2020 15:20:07 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 12
+[12-Nov-2020 15:22:04 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 15
+[12-Nov-2020 16:30:41 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 39
+[13-Nov-2020 10:17:51 UTC] PHP Notice:  Undefined index: name in /home/n0bqddx75lju/public_html/demo/application/home.php on line 39
+[19-Nov-2020 15:17:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/n0bqddx75lju/public_html/demo/application/signup.php:12) in /home/n0bqddx75lju/public_html/demo/application/signup.php on line 108
+[19-Nov-2020 15:35:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/n0bqddx75lju/public_html/demo/application/signup.php:25) in /home/n0bqddx75lju/public_html/demo/application/signup.php on line 108
+[19-Nov-2020 15:47:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/n0bqddx75lju/public_html/demo/application/signup.php:12) in /home/n0bqddx75lju/public_html/demo/application/signup.php on line 109
+[20-Nov-2020 15:58:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/n0bqddx75lju/public_html/demo/application/signup.php:25) in /home/n0bqddx75lju/public_html/demo/application/signup.php on line 109

@@ -1,0 +1,141 @@
+<style>
+*{margin:0; padding:0; box-sizing: border-box; font-family: 'Mulish', sans-serif; }
+a{ color: white; text-decoration: none; }
+header{
+    width: 100%;
+    height: 100vh;
+    background: #2C3E50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FD746C, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FD746C, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    position: relative;
+}
+header:before{
+    content: "";
+    width: 520px;
+    height: 550px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-image: url('https://webstockreview.net/images/circle-clipart-round-shape-5.png');
+    background-size: 100% 100%;
+    /*https://www.pngkit.com/png/full/14-140653_hand-painted-watercolor-wedding-flowers-flowers-blue-vector.png
+    https://webstockreview.net/images/circle-clipart-round-shape-5.png
+    https://www.pinclipart.com/picdir/big/179-1798450_phoenix-enso-phoenix-enso-clipart.png
+    images/1.png*/
+}
+
+nav{
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position:absolute;
+}
+
+.logo a{
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 15px;
+
+}
+
+.menu ul li a{
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}
+
+.active, ul li:hover{
+    border-top: 2px solid #5dade2;
+    border-bottom: 2px solid #5dade2;
+}
+
+.contact_btn a{
+    background-color: thistle;
+    padding: 12px 26px;
+    font-style: 14px;
+    font-weight: 500;
+    border: 1px solid transparent;
+    text-transform: capitalize;
+}
+.contact_btn a:hover{
+    background: linear-gradient(to bottom, #625cfd 0%, #d46fd4 100%);
+}
+
+/*/////////////////Center content///////////////*/
+
+.center_content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.center_content h1{
+    color: #fff;
+    font-size: 70px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-bottom: 10px;
+    z-index:1;
+}
+.center_content h2{
+    font-size: 25px;
+    font-weight: 400;
+    color:#fff;
+    z-index: 1;
+    text-transform: capitalize;
+}
+.center_content h2:before{
+    content:"";
+    width:80px;
+    height: auto;
+    border: 2px solid #fff;
+    position: absolute;
+    left: 40px;
+    bottom:0;
+    margin-bottom: 10px;
+}
+
+/*////////// Social Network styles//////////////////*/
+
+.social_network{
+    width: 100px;
+    height: auto;
+    position: absolute;
+    right: 0;
+    top: 40%;
+}
+
+.fa_icons{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(to bottom, #625cfd 0%, #d46fd4 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa_icons:nth-child(even){
+    margin: 20px 0;
+
+}
+.fa_icons:hover{
+    background: linear-gradient(to bottom, #d46fd4 0%, #625cfd 100%);
+}
+
+.grid_sec{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    left: 55%;
+    bottom: 0;
+    overflow: hidden;
+}
+</style>
